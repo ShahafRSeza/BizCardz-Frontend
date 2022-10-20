@@ -1,3 +1,3 @@
 # Hello
 
-![ScreenShot ](images/HomeComponentView.png)
+![ScreenShot ](public/images/HomeComponentView.png)
