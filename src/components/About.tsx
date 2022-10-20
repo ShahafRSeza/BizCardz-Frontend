@@ -24,7 +24,7 @@ const About: FunctionComponent<AboutProps> = () => {
 
             <div className="my-4">
               <img
-                src="/images/quickIcon.png"
+                src="/images/QuickIcon.png"
                 width="60"
                 style={{ float: "left", marginRight: "20px" }}
               />
@@ -64,7 +64,7 @@ const About: FunctionComponent<AboutProps> = () => {
 
             <div className="my-4">
               <img
-                src="/images/moreCardsIcon.png"
+                src="/images/morecardsIcon.png"
                 width="60"
                 style={{ float: "left", marginRight: "20px" }}
               />
