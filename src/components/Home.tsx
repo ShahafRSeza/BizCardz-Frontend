@@ -89,28 +89,28 @@ const Home: FunctionComponent<HomeProps> = () => {
             </MouseParallaxChild>
             <MouseParallaxChild factorX={-0.05} factorY={0}>
               <img
-                src="images/building4.png"
+                src="images/Building4.png"
                 width="135"
                 className="parallaxPic"
               />
             </MouseParallaxChild>
             <MouseParallaxChild factorX={-0.08} factorY={0}>
               <img
-                src="images/building3.png"
+                src="images/Building3.png"
                 width="135"
                 className="parallaxPic"
               />
             </MouseParallaxChild>
             <MouseParallaxChild factorX={-0.05} factorY={0}>
               <img
-                src="images/building2.png"
+                src="images/Building2.png"
                 width="135"
                 className="parallaxPic"
               />
             </MouseParallaxChild>
             <MouseParallaxChild factorX={-0.02} factorY={0}>
               <img
-                src="images/building1.png"
+                src="images/Building1.png"
                 width="135"
                 className="parallaxPic"
               />
