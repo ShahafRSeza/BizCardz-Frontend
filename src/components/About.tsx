@@ -147,9 +147,9 @@ const About: FunctionComponent<AboutProps> = () => {
             </p>
             <p>
               The project includes a server side
-              <span className="text-dark">(NodeJs with MongoDB)</span> and a
+              <span className="text-dark"> (NodeJs with MongoDB)</span> and a
               client side based on
-              <span className="text-dark">React (TypeScript).</span>
+              <span className="text-dark"> React (TypeScript).</span>
             </p>
             <p>
               <span className="text-dark">Additional features are:</span>
@@ -159,7 +159,7 @@ const About: FunctionComponent<AboutProps> = () => {
               <li>User Authentication with tokens</li>
               <li>Custom API Service</li>
             </ul>
-            <p className="d-flex justify-content-between align-items-center flex-wrap">
+            <p className="d-flex justify-content-around align-items-center flex-wrap">
               <img src="images/html5.png" width="70" />
               <img src="images/css3.png" width="70" />
               <img src="images/javascript.png" width="70" />
