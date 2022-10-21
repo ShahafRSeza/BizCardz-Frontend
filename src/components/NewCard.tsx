@@ -38,6 +38,7 @@ const NewCards: FunctionComponent<NewCardsProps> = () => {
         ),
       description: yup
         .string()
+      .min(5)
         .required("Tell some things about your business"),
       logo: yup.string().required("Pleade insert Logo URL"),
       backgroundImg: yup.string().required("Pleade insert Header Image URL"),
